@@ -6,7 +6,7 @@ categories: show
 ---
 ![gif](/images/podcast-001.gif)
 
-{% audio /shows/Footsies-Podcast-001-3_18_15.mp3 %}
+
 
 Well here we go. We talk about a bunch of cool stuff.
 
