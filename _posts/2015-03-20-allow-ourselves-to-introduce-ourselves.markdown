@@ -11,7 +11,7 @@ categories: show
 Well here we go. We talk about a bunch of cool stuff.
 
 #### Sho' nuff Sho' notes
-* [Alto's Adventure](http://altosadventure.com) & [OlliOlli](http://www.roll7.co.uk)
+* [Alto's Adventure](http://altosadventure.com) & [OlliOlli](http://www.roll7.co.uk) are games you might want to check out.
 * Check out [Product Hunt](http://www.producthunt.com) everyday, don't ask questions just do it! 
 * [The Drop](https://thedrop.club) is where you can find your new EDM jam.
 * [Donuts](https://en.wikipedia.org/wiki/Doughnut) was apparently Bryan's thing.
