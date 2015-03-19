@@ -108,6 +108,10 @@
 }
 
 
+.cta {
+	margin-bottom: 30px;
+}
+
 
 /**
  * Site footer
@@ -221,6 +225,9 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+	.post-meta {
+		margin-bottom: 5px;
+	}
 }
 
 .post-title {

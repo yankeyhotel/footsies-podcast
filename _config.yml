@@ -1,11 +1,9 @@
 # Site settings
 title: Footsies
 tagline: The Unofficially Official Foot Cardigan Podcast
-email: podcast@footcardigan.com
+email: podcast@footsiespodcast.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Footsies is a podcast created by Foot Cardigan co-founders Bryan DeLuca and Matt McClard. Sometimes they talk about making socks and business-y things. Sometimes it might get real weird. One thing is certain: Nothing is certain. Mmmm, deep.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://footsiespodcast.com" # the base hostname & protocol for your site
 twitter_username: footsiespodcast
