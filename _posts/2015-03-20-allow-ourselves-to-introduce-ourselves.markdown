@@ -15,4 +15,5 @@ Well here we go. We talk about a bunch of cool stuff.
 * Check out [Product Hunt](http://www.producthunt.com) everyday, don't ask questions just do it! 
 * [The Drop](https://thedrop.club) is where you can find your new EDM jam.
 * [Donuts](https://en.wikipedia.org/wiki/Doughnut) was apparently Bryan's thing.
-
+* [Foot Cardigan](http://www.footcardigan.com): Fantastically fantastic socks delivered to your mailbox every month!
+* [Bryan](https://twitter.com/bryandeluca) & [Matt](https://twitter.com/yankeyhotel) are both part of the Twitterverse and we are all made of stars.
