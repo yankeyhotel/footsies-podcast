@@ -6,7 +6,7 @@ categories: show
 ---
 ![gif](/images/podcast-001.gif)
 
-
+{% include mp3.html mp3="Footsies-Podcast-001-3_18_15.mp3" preload="none" %}
 
 Well here we go. We talk about a bunch of cool stuff.
 

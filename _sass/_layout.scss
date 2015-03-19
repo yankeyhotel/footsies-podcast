@@ -260,7 +260,12 @@
         }
     }
 
+    p, li {
+    	font-size: 18px;
+    }
+
     .audiojs {
+    	margin-bottom: 30px;
     	width: 100%;
 		.play-pause { width: 5%; }
 		.scrubber	{ width: 75%; }
