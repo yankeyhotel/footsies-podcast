@@ -13,15 +13,11 @@
 
 .site-title {
 	color: $brand-color;
+	display: block;
     float: left;
-	font-family: $headline-font-family;
-    font-size: 42px;
-    font-weight: $black;
-    line-height: 1;
-    margin-bottom: 0;
+    margin: 0 0 0 -5px;
     padding: 30px 0;
-    text-transform: uppercase;
-	text-shadow: -3px 3px 0px $grey-color-light;
+    min-width: 400px;
 
 	&:hover {
 		color: $grey-color-dark;
@@ -272,7 +268,7 @@
     }
 
     .audiojs {
-    	margin-bottom: 30px;
+    	margin: 30px 0;
     	width: 100%;
 		.play-pause { width: 5%; }
 		.scrubber	{ width: 75%; }

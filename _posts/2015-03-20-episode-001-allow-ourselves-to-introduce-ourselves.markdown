@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 001: Allow Ourselves, To Introduce Ourselves"
+title:  "Episode 001: Allow Ourselves To Introduce Ourselves"
 date:   2015-03-20 21:27:17
 categories: show
 ---
