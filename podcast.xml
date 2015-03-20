@@ -20,6 +20,7 @@ layout: null
         <itunes:category text="Business">
             <itunes:category text="Management &amp; Marketing" />
         </itunes:category>
+        <itunes:explicit>clean</itunes:explicit>
 
 		{% for post in site.posts %}
 		<item>
