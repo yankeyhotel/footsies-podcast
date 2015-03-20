@@ -11,6 +11,7 @@ url: "http://footsiespodcast.com" # the base hostname & protocol for your site
 twitter_username: footsiespodcast
 instagram_username: footsiespodcast
 facebook_username: footsiespodcast
+podcast_rss: /podcast.xml
 
 # Build settings
 markdown: kramdown
