@@ -1,9 +1,9 @@
 <center>
-    <audio src="/shows/{{include.mp3}}" preload="{{include.preload}}" />
+    <audio src="/shows/{{ include.mp3 }}" preload="{{ include.preload }}" />
 </center>
 
 <p>
-	<i class="fa fa-music"></i> <a href="">Download on iTunes</a>&emsp; |&emsp;
-	<i class="fa fa-download"></i> <a href="/shows/{{include.mp3}}">Download the MP3</a>&emsp; |&emsp;
-	<i class="fa fa-rss"></i> <a href="{{ " /feed.xml " | prepend: site.baseurl }}">Subscribe to the RSS Feed</a>
+	<i class="fa fa-music"></i> <a href="{{ site.itunes_url }}" target="_blank">Download on iTunes</a>&emsp; |&emsp;
+	<i class="fa fa-download"></i> <a href="/shows/{{include.mp3}}" target="_blank">Download the MP3</a>&emsp; |&emsp;
+	<i class="fa fa-rss"></i> <a href="{{ " /podcast.xml " | prepend: site.baseurl }}" target="_blank">Subscribe to the RSS Feed</a>
 </p>

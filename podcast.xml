@@ -23,17 +23,17 @@ layout: null
         <itunes:explicit>clean</itunes:explicit>
 
 		{% for post in site.posts %}
-		<item>
-			<title>{{ post.title }}</title>
-			<itunes:author>{{ site.owner | xml_escape }}</itunes:author>
-			<itunes:subtitle>{{ post.subtitle | xml_escape }}</itunes:subtitle>
-			<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-			<itunes:image href="{{ site.url }}/{{ site.podcast_cover }}" />
-			<enclosure url="{{ site.url }}/shows/{{ post.mp3 }}" length="{{ post.enclosure_length }}" type="audio/mpeg" />
-			<guid>{{ site.url }}/shows/{{ post.mp3 }}</guid>
-			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-			<itunes:duration>{{ post.duration | xml_escape }}</itunes:duration>
-		</item>
+			<item>
+				<title>{{ post.title }}</title>
+				<itunes:author>{{ site.owner | xml_escape }}</itunes:author>
+				<itunes:subtitle>{{ post.subtitle | xml_escape }}</itunes:subtitle>
+				<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+				<itunes:image href="{{ site.url }}/{{ site.podcast_cover }}" />
+				<enclosure url="{{ site.url }}/shows/{{ post.mp3 }}" length="{{ post.enclosure_length }}" type="audio/mpeg" />
+				<guid>{{ site.url }}/shows/{{ post.mp3 }}</guid>
+				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+				<itunes:duration>{{ post.duration | xml_escape }}</itunes:duration>
+			</item>
 		{% endfor %}
 
 	</channel>
