@@ -3,6 +3,11 @@ layout: post
 title:  "Episode 001: Allow Ourselves To Introduce Ourselves"
 date:   2015-03-20 21:27:17
 categories: show
+mp3: "Footsies-Podcast-001-3_18_15.mp3"
+subtitle: "Bryan and Matt kick off the Footsies podcast and clearly have no idea what they are doing."
+summary: "Bryan and Matt kick off the Footsies podcast and clearly have no idea what they are doing. They should just quit now and keep making socks. Or maybe, just maybe, this thing has a chance to become mildly entertaining and provide a smidgen of valuable content. But probably not."
+enclosure_length: 40165168
+duration: "27:53"
 ---
 ![gif](/images/podcast-001.gif)
 
