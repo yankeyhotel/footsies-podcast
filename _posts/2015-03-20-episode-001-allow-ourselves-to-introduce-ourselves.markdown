@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 001: Allow Ourselves To Introduce Ourselves"
-date:   2015-03-20 21:27:17
+date:   2015-03-20 01:00:00
 categories: show
 mp3: "Footsies-Podcast-001-3_18_15.mp3"
 subtitle: "Bryan and Matt kick off the Footsies podcast and clearly have no idea what they are doing."
