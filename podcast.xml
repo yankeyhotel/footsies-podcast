@@ -27,7 +27,7 @@ layout: null
 			<itunes:author>{{ site.owner | xml_escape }}</itunes:author>
 			<itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
 			<itunes:summary>{{ post.summary }}</itunes:summary>
-			<itunes:image href="{{ site.url }}/shows/{{ site.podcast_cover }}" />
+			<itunes:image href="{{ site.url }}/{{ site.podcast_cover }}" />
 			<enclosure url="{{ site.url }}/shows/{{ post.mp3 }}" length="{{ post.enclosure_length }}" type="audio/mpeg" />
 			<guid>{{ site.url }}/shows/{{ post.mp3 }}</guid>
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
