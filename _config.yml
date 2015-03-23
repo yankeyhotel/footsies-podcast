@@ -12,6 +12,7 @@ twitter_username: footsiespodcast
 instagram_username: footsiespodcast
 facebook_username: footsiespodcast
 podcast_rss: /podcast.xml
+itunes_url: https://itunes.apple.com/us/podcast/footsies/id978765784
 
 # Build settings
 markdown: kramdown
