@@ -1,17 +1,35 @@
 <script src="/js/audiojs/audio.min.js"></script>
 <script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
+	audiojs.events.ready(function() {
+	    var as = audiojs.createAll();
+	});
+
+	// not using jquery
+	window.onload = function() {
+	    var posts 	= document.getElementsByClassName('post-content');
+
+	   	for (var a = 0; a < posts.length; a++) {
+	   		anchors = posts[a].getElementsByTagName('a');
+
+		    for (var i = 0; i < anchors.length; i++) {
+		        anchors[i].setAttribute('target', '_blank');
+		    }
+		}
+	}
 </script>
-
 <script>
- (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
- (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
- m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
- })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+(function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
- ga('create', 'UA-30490419-3', 'auto');
- ga('send', 'pageview');
-
+ga('create', 'UA-30490419-3', 'auto');
+ga('send', 'pageview');
 </script>
