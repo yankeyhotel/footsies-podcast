@@ -20,5 +20,5 @@ Bryan and Matt kick off the Footsies podcast and clearly have no idea what they 
 * Check out [Product Hunt](http://www.producthunt.com) EVERY DAY. Don’t ask questions. Just do it.  
 * [The Drop](https://thedrop.club) is where you can find your next favorite EDM jam.
 * [Jelly Donuts](https://youtu.be/VYMb_LPN1dI?t=1m20s) are where it’s at.
-* We co-founded [Foot Cardigan](http://www.footcardigan.com). Fantastically fantastic socks delivered to your mailbox every month!
+* We co-founded [Foot Cardigan](http://www.footcardigan.com). Fantastically fantastic socks delivered to your<br> mailbox every month!
 * [Bryan](https://twitter.com/bryandeluca) & [Matt](https://twitter.com/yankeyhotel) are both part of the Twitterverse and we are all made of stars.
