@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Episode 004: Pallet Jack Impalement and Unorthodox Hiring"
+date:   2015-07-28 12:00:00
+categories: show
+mp3: "Footsies-Podcast-004-7_23_15.mp3"
+subtitle: "Oh hey, we’re back. Don’t hate us for the hi-ate-us. See what we did there? Bryan and Matt prove that podcasting is, in fact, not like riding a bike at all. They discuss the fine art of furnishing their new office space and what their calculated hiring process is like over at Foot Cardigan."
+enclosure_length: 56933899
+duration: "39:32"
+---
+![gif](/images/podcast-004.gif)
+
+{% include mp3.html mp3="Footsies-Podcast-004-7_23_15.mp3" preload="none" %}
+
+Oh hey, we’re back. Don’t hate us for the hi-ate-us. See what we did there? Bryan and Matt prove that podcasting is, in fact, not like riding a bike at all. They discuss the fine art of furnishing their new office space and what their calculated hiring process is like over at Foot Cardigan. 
+
+#### Sho' nuff Sho' notes
+* Periscope is helladope [check us out](https://www.periscope.tv/w/aIeiuDc4NDE5MjR8NDgyODcyNDE2H5YA6Ok8hs-xNf0uzwRFloU05F7pc_j-G0Rn4EvzLQ==) @FootCardigan
+* Wanna be part of the team [find out how](http://www.footcardigan.com/about) (pro tip scroll to the bottom of the page)
+* The Martian by Andy Weir [Book](http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA) + [Movie Trailer](https://www.youtube.com/watch?v=Ue4PCI0NamI)
+* Daredevil on [Netflix](http://www.netflix.com/title/80018294) 
+* We co-founded [Foot Cardigan](http://www.footcardigan.com). Fantastically fantastic socks delivered to your<br> mailbox every month!
+* [Bryan](https://twitter.com/bryandeluca) & [Matt](https://twitter.com/yankeyhotel) are both part of the Twitterverse and we are all made of stars.
