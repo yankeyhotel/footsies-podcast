@@ -3,17 +3,17 @@ layout: post
 title:  "Episode 002: Razors and hip hop choreography"
 date:   2015-03-30 01:00:00
 categories: show
-mp3: "Footsies-Podcast-002-3_30_15.mp3"
+mp3: "http://traffic.libsyn.com/footcardigan/Footsies-Podcast-002-3_30_15.mp3"
 subtitle: "Bryan and Matt kick off the Footsies podcast and clearly have no idea what they are doing."
 summary: "In this episode of Footsies, Bryan and Matt talk about the origin of Foot Cardigan, what it was like assembling the team (NEWS TEAM, ASSEMBLE!!!) and their inspiration for starting Foot Cardigan. But really, they still have no idea what they are doing."
-enclosure_length: 52949703
-duration: "36:46"
 ---
 ![gif](/images/podcast-002.gif)
 
-{% include mp3.html mp3="Footsies-Podcast-002-3_30_15.mp3" preload="none" %}
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3835168/height/30/width/640/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="30" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-In this episode of Footsies, Bryan and Matt talk about the origin of Foot Cardigan, what it was like assembling the team (NEWS TEAM, ASSEMBLE!!!) and their inspiration for starting Foot Cardigan. But really, they still have no idea what they are doing. 
+{% include mp3-new.html %}
+
+In this episode of Footsies, Bryan and Matt talk about the origin of Foot Cardigan, what it was like assembling the team (NEWS TEAM, ASSEMBLE!!!) and their inspiration for starting Foot Cardigan. But really, they still have no idea what they are doing.
 
 #### Sho' nuff Sho' notes
 * Dollar Shave Club's ["Our Blades Are F***ing Great"](https://www.youtube.com/watch?v=ZUG9qYTJMsI) viral video is clocking in at over 18.5 million views. This one is a classic.

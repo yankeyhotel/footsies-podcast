@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Episode 005: Correlation ≠ Causation and other conspiracies"
+date:   2015-11-05 12:00:00
+categories: show
+mp3: "http://traffic.libsyn.com/footcardigan/Podcast-005_-_11515_4.16_PM.mp3"
+subtitle: "After not doing a podcast since before the podcast was invented, Bryan and Matt give the REAL reason why they’ve been MIA: laziness. Well, that and Foot Cardigan was on Shark Tank a few weeks ago. So yeah, they discuss that and what happens moving forward now that millions of people have seen them in their underwear."
+---
+![gif](/images/podcast-005.jpg)
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3926599/height/30/width/640/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="30" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+{% include mp3-new.html %}
+
+After not doing a podcast since before the podcast was invented, Bryan and Matt give the REAL reason why they’ve been MIA: laziness. Well, that and Foot Cardigan was on Shark Tank a few weeks ago. So yeah, they discuss that and what happens moving forward now that millions of people have seen them in their underwear.
+
+#### Sho' nuff Sho' notes
+* [Shark Tank happened](http://abc.go.com/shows/shark-tank/episode-guide/season-07/03-week-3-guest-shark-troy-carter-foot-cardigan-two-guys-bow-ties-valpark-nerdwax)
+* [Correlation does not imply causation.](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
+* Runners wanted. [Tanis Podcast](http://www.tanispodcast.com)
+* [10 Best plants for Fall](http://www.southernliving.com/home-garden/gardens/fall-plant-gardening-tips)
+* [Chef’s Table on Netflix](https://www.youtube.com/watch?v=qKqj85oo2wI)
+* [Is it Christmas](https://isitchristmas.com)
+* [Average time](http://www.creditsesame.com/blog/how-long-are-americans-staying-in-their-homes) people stay in homes before selling them in the US
+* We co-founded [Foot Cardigan](http://www.footcardigan.com/). Fantastically fantastic socks delivered to your mailbox every month!
+* [Bryan](https://twitter.com/bryandeluca) & [Matt](https://twitter.com/yankeyhotel) are both part of the Twitterers and we are all made of stars.
