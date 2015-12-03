@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Episode 006: Lightning in a Bottle of Fake Tan"
+date:   2015-12-03 12:00:00
+categories: show
+mp3: "http://traffic.libsyn.com/footcardigan/Footsies-Podcast-006-12_3_15.mp3"
+subtitle: "Oh hey, we’re back. Don’t hate us for the hi-ate-us. See what we did there? Bryan and Matt prove that podcasting is, in fact, not like riding a bike at all. They discuss the fine art of furnishing their new office space and what their calculated hiring process is like over at Foot Cardigan."
+---
+![gif](/images/podcast-006.gif)
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3994561/height/30/width/640/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="30" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+{% include mp3-new.html %}
+
+Yay. Footsies made it six whole episodes. We’re like professionals or not or something. In this episode,  Bryan and Matt talk about holiday time as an e-commerce/retailer/online business/whatever Foot Cardigan is. If this episode doesn’t make sense, it’s probably because we’re drowning in whatever the eggnog version of being an e-commerce company in December is.
+
+#### Sho' nuff Sho' notes
+* [Unbranded](http://weareunbranded.com/)
+* [Halo + Destiny + Cosplay](https://www.youtube.com/watch?v=B4U9c9Qvbqw)
+* [Corgis](https://www.instagram.com/splootthecorgi/), [Corgis](https://www.instagram.com/chibbythecorgi/), [Corgis](https://www.instagram.com/threecorgis/)
+* That [Instagram](https://www.instagram.com/footcardigan) thing.
+* We co-founded [Foot Cardigan](http://www.footcardigan.com). Fantastically fantastic socks delivered to your<br> mailbox every month!
+* [Bryan](https://twitter.com/bryandeluca) & [Matt](https://twitter.com/yankeyhotel) are both part of the Twitterverse and we are all made of stars.
