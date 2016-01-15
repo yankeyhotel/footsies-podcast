@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Episode 007: New year, new droids"
+date:   2016-1-14 12:00:00
+categories: show
+mp3: "http://traffic.libsyn.com/footcardigan/Footsies-Podcast-007-1_14_16.mp3"
+subtitle: "In Episode 007, Bryan and Matt pretend like they know how to plan for growth. They also pretend like they know how the lottery works. Ultimately, they fire all their employees because they didn’t help them come up with a topic for this week’s podcast. One of the many perks of capitalism."
+---
+![gif](/images/podcast-007.gif)
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4080523/height/30/width/640/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="30" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+{% include mp3-new.html %}
+
+In Episode 007, Bryan and Matt pretend like they know how to plan for growth. They also pretend like they know how the lottery works. Ultimately, they fire all their employees because they didn’t help them come up with a topic for this week’s podcast. One of the many perks of capitalism.
+
+#### Sho' nuff Sho' notes
+* As a correction Matt's top 5 droids are...
+  1. BB-8
+  2. R2-D2
+  3. Guilty Spark
+  4. WALL-E
+  5. Johnny-5
+* Matt's man crush [John Boyega](http://www.imdb.com/name/nm3915784/), from that Star Wars movie, was in another movie called [Attack the Block](http://www.imdb.com/title/tt1478964/?ref_=nv_sr_2). Check it out.
+* [Parks and Rec](http://www.imdb.com/title/tt1266020/?ref_=nv_sr_1) Season 7 is now (FINALLY) on Netflix
+* Also, on Netflix is that quirky, adorable show [Detectorists](http://www.imdb.com/title/tt4082744/?ref_=fn_al_tt_1)  
+* We co-founded [Foot Cardigan](http://www.footcardigan.com). Fantastically fantastic socks delivered to your<br> mailbox every month!
+* [Bryan](https://twitter.com/bryandeluca) & [Matt](https://twitter.com/yankeyhotel) are both part of the Twitterverse and we are all made of stars.
